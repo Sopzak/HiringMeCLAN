@@ -1,0 +1,208 @@
+[
+    {
+      "level": "0",
+      "name": "Start",
+      "gamehistory": {
+        "wordslist": [
+          "", ""
+        ]
+      },
+      "gamemissions": [
+        {
+          "objective": "",
+          "message": "",
+          "hits": 0
+        },
+        {
+          "objective": "",
+          "message": "",
+          "hits": 0
+        }
+      ],
+      "gamechats": 
+        {
+          "npcid": 0,
+          "isplayertalk": [],
+          "message": []
+        }
+    },
+    {
+      "level": "1",
+      "name": "Looking for a job",
+      "gamehistory": {
+        "wordslist": [
+          "Hello, I'm Jesiel.",
+          "I am a full stack developer",
+          "but I'm changing my career to being a Unity developer.",
+          "Work making games is my passion.",
+          "And now I'm looking for a job in Victoria BC."
+        ]
+      },
+      "gamemissions": [
+        {
+          "objective": "Tap to create a resume",
+          "message": "I need to create a resume.",
+          "hits": 10
+        },
+        {
+          "objective": "Tap to update your LinkedIn.",
+          "message": "Good Job! Now I need to update my LinkedIn.",
+          "hits": 5
+        },
+        {
+          "objective": "Tap to find jobs.",
+          "message": "And Now I need to find a job.",
+          "hits": 20
+        },
+        {
+          "objective": "Tap to apply.",
+          "message": "Yes! This job is perfect.",
+          "hits": 5
+        }
+      ],
+      "gamechats": 
+        {
+          "npcid": 0,
+          "isplayertalk": [],
+          "message": []
+        }
+    },
+    {
+      "level": "2",
+      "name": "The interview.",
+      "gamehistory": {
+        "wordslist": [
+          "Great, I got an answer.", 
+          "They would like to schedule an interview."
+        ]
+      },
+      "gamemissions": [
+        {
+          "objective": "Tap to prepare for an interview.",
+          "message": "I need to prepare myself.",
+          "hits": 10
+        }
+      ],
+      "gamechats": 
+        {
+          "npcid": 1,
+          "isplayertalk": [1,0,0,0,1],
+          "message": ["Hi Mary, nice to meet you.",
+            "Nice to meet you Jesiel.",
+            "We read your resume, it is very interesting.",
+            "Can you answer some questions?",
+            "Of course!"
+          ]
+        }
+    },
+    {
+      "level": "3",
+      "name": "The technique interview.",
+      "gamehistory": {
+        "wordslist": [
+          "Wow, I got the email saying", 
+          "they're moving forward with my process.",
+          "Now the next step is the technique interview.",
+          "I'm going to study and prepare my portfolio."
+        ]
+      },
+      "gamemissions": [
+        {
+          "objective": "Tap to study for an interview.",
+          "message": "I need to prepare myself.",
+          "hits": 10
+        },
+        {
+          "objective": "Tap to create a portfolio.",
+          "message": "I need to create a new portfolio.",
+          "hits": 20
+        },
+        {
+          "objective": "Tap to fix bugs.",
+          "message": "I need to fix bugs on my portfolio site nobody is perfect.",
+          "hits": 5
+        }
+      ],
+      "gamechats": 
+        {
+          "npcid": 2,
+          "isplayertalk": [1,0,1,0,0],
+          "message": ["Hi Tony, how are you?",
+            "Hi Jesiel, I'm great, how are you?",
+            "I'm great too.",
+            "Your portfolio is amazing,", 
+            "how did you do this project?"
+          ]
+        }
+    },
+    {
+      "level": "4",
+      "name": "Meet the CEO",
+      "gamehistory": {
+        "wordslist": [
+          "Unbelievable. I'm in the final round with the CEO."
+        ]
+      },
+      "gamemissions": [
+        {
+          "objective": "Tap to study for an interview.",
+          "message": "I need to prepare myself.",
+          "hits": 10
+        },
+        {
+          "objective": "Tap to search everything Google knows about the company.",
+          "message": "I need to study about that company.",
+          "hits": 5
+        }
+      ],
+      "gamechats":
+        {
+          "npcid": 3,
+          "isplayertalk": [1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1],
+          "message": ["Hi my name is Jesiel.",
+            "Hi Jesiel, how are you?",
+            "I'm a little nervous, but I'll be fine.",
+            "Don't worry, let's get to know each other better.",
+            "...", "...","...",
+            "And do you have any more questions for me?",
+            "So if I start tomorrow",
+            "which project and which role would I start?",
+            "Good question!",
+            "We have a perfect project for you.",
+            "To create a new text based RPG game.",
+            "I can really visualize you working with us.",
+            "Could you start on Monday?",
+            "Yes. It will be a pleasure."
+          ]
+        }
+    },
+    {
+      "level": "5",
+      "name": "Hired!",
+      "gamehistory": {
+        "wordslist": [
+          "Thanks for playing.",
+          "Don't forget to follow me",
+          "to help me make this dream come true.",
+          "I'm sure my creativity and sense of humor",
+          "will make a difference in this company.",
+          "Thank you so much for playing/watching",
+          "and wish me luck.", 
+          "Goodbye."
+        ]
+      },
+      "gamemissions": [
+        {
+          "objective": "",
+          "message": "",
+          "hits": 0
+        }
+      ],
+      "gamechats": 
+        {
+          "npcid": 0,
+          "isplayertalk": [],
+          "message": []
+        }
+    }
+  ]
