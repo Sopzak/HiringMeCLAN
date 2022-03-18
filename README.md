@@ -8,7 +8,8 @@ It is a text based RPG and all dialogs are configurable and it is possible to ch
 
 ## APK to android
 
-That is the link to you Download and instal that APK. [Download](https://github.com/Sopzak/ResumeDelivery/raw/main/APK/HiringMeClan.apk)
+That is the link to you Download and instal that APK. [Download](https://github.com/Sopzak/HiringMeCLAN/raw/master/hiringme.apk)
+
 
 How to install third party apps without the Google Play Store? Click [Here](https://www.androidauthority.com/how-to-install-apks-31494/)
 
