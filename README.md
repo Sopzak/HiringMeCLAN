@@ -1,4 +1,4 @@
-<h1 align="center">HiringMeClan</h1> 
+<h1 align="center">Hiring Me Clan</h1> 
 
 <p align="center">This game is about a guy who is looking for a job in Victoria BC, and he goes through all the interview processes.
 It is a text based RPG and all dialogs are configurable and it is possible to change the characters in the code.</p>
