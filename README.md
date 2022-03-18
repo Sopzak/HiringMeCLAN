@@ -4,7 +4,7 @@
 It is a text based RPG and all dialogs are configurable and it is possible to change the characters in the code.</p>
 
 ## Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXX)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MYlxE8OOxLY/0.jpg)](https://youtu.be/MYlxE8OOxLY)
 
 ## APK to android
 
@@ -28,6 +28,7 @@ That tools was using to create this project:
 - [Unity](https://unity.com/)
 - [VS code](https://code.visualstudio.com/)
 - [Character Creator 2D](https://mochakingup.itch.io/cc2d)
+- [Music library](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
 ## Social Media and LinkedIn
