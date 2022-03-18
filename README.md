@@ -3,6 +3,10 @@
 <p align="center">This game is about a guy who is looking for a job in Victoria BC, and he goes through all the interview processes.
 It is a text based RPG and all dialogs are configurable and it is possible to change the characters in the code.</p>
 
+# DEMO VIEW
+
+![HiringMeClan](/game.gif)
+
 ## Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MYlxE8OOxLY/0.jpg)](https://youtu.be/MYlxE8OOxLY)
 
